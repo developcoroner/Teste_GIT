@@ -1,7 +1,8 @@
-# Teste_GIT
-Teste Inicial no GIT
+# ubunt_GIT
+ubunt Inicial no GIT
 
 modificando diretamento no vcode ubuntu.
+
 
 
  
